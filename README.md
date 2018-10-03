@@ -7,7 +7,7 @@ This repository contains two scripts to show alternative visualisation of !iime 
 
 [visualiseFamilytable.R](visualiseFamilytable.R) visualises Gammaproteobacteria content on the hands
 
-[visualizePCOA.R](visualizePCOA.R) offer a publication ready alternative frome Qiime PCOA output
+[visualizePCOA.R](visualizePCOA.R) offer a publication ready alternative frome qiime PCOA output
 
 ## Data files
 
@@ -24,3 +24,7 @@ qiime tools extract bray_curtis_pcoa_results.qza --output-dir diversity_exports
 ```
 qiime tools view taxa-bar-plots.qzv # Adjust to family level and click on CSV in browser
 ```
+
+### Metadata
+
+[sample-metadata.tsv](sample-metadata.tsv) contains the metadata as outputted by qiime
