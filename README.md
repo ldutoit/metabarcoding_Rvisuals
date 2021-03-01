@@ -1,7 +1,7 @@
 # metabarcoding_Rvisuals
 ## Summary
 
-This repository contains two scripts to show alternative visualisation of !iime outputs.
+This repository contains two scripts to show alternative visualisation of Qiime2 outputs.
 
 ## Scripts
 
